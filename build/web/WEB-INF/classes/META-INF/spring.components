@@ -1,0 +1,3 @@
+com.spring.controller.AdminController=org.springframework.stereotype.Component
+com.spring.controller.ContactController=org.springframework.stereotype.Component
+com.spring.controller.IndexController=org.springframework.stereotype.Component
